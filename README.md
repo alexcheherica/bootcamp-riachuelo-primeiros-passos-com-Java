@@ -41,27 +41,34 @@ descrição:
 
 |M	  |MÓDULOS 							  	                    |CATEGORIA 	         |SUBMODULOS 		                                                     |DURAÇÃO (hrs)	   |CHECK  |
 |:--  |:---- 								                    |:----	             |:----  		                                                         |:----		       |:----: |
-|MO-1 | Primeiros Passos com CSS	                            |	                 |			                                                             | 			       |   ✅  |
-|	  |			 										        |CURSO			     |Fundamentos do CSS                                                     |3        	       |   ✅  |
-|	  |			 										        |CURSO			     |Estilizações Básicas com CSS                                           |6	   	           |   ✅  | 
-|	  |													        |CURSO			     |Unidades de Medida em CSS                                              |2	    		   |   ✅  |
-|	  |													        |DESAFIO DE PROJETO  |Criando sua Primeira Landing Page com HTML e CSS                       |2			       |   ✅  |
-|	  |												            |CURSO	             |Materiais Complementares - Primeiros Passos com CSS                    |1		           |   ✅  |
-|MO-2 | Trabalhando com Layouts no CSS  			            |	   	             |				                                                         | 			       |   ✅  |
-|	  |													        |CURSO			     |Posicionamentos e Exibição de Elementos com CSS                        |2	   		       |   ✅  |
-|	  |											                |CURSO	             |Trabalhando com Flexbox no CSS                                         |2	               |   ✅  |
-|	  |												            |DESAFIO DE PROJETO  |Clonando a Página do Youtube com CSS 	                                 |2    		       |   ✅  |
-| 	  |												            |CURSO		         |Dominando Grid Layouts no CSS	   	                                     |3			       |   ✅  |
-| 	  |											                |DESAFIO DE PROJETO	 |Reproduzindo a Listagem do YouTube com Grid Layout no CSS              |2                |   ✅  |
-|     |												            |CURSO	             |Responsividade no CSS                                                  |3	   		       |   ✅  |
-|     |												            |DESAFIO DE PROJETO	 |Construindo um Layout Responsivo Para o Site do Discord Com CSS        |2	   		       |   ✅  |
-|     |												            |CURSO	             |Materiais Complementares - Trabalhando Com Layouts no CSS              |1	   		       |   ✅  |
-|MO-3 | Refinando os Estilos CSS das Nossas Páginas  	        |	                 |				                                                         |			       |   ✅  |
-| 	  |											  	            |CURSO			     |Pseudo Elementos e Pseudo Classes                                      |4	               |   ✅  |
-| 	  |												            |CURSO			     |Transições e Animações	   			                                 |3			       |   ✅  |
-| 	  |												            |CURSO		         |Boas Práticas e Convenções no CSS	   	                                 |2			       |   ✅  |
-| 	  |											                |CURSO	             |Iniciando com seu primeiro Framework em CSS: Bootstrap                 |3                |   ✅  |
-|     |												            |DESAFIO DE PROJETO	 |Clonando o Site da HBO Max com Animações em HTML e CSS                 |1	   		       |   ✅  |
-|     |												            |CURSO           	 |Materiais Complementares - Refinando os Estilos CSS das nossas páginas |1	   		       |   ✅  |
-|     |												            |CURSO	             |Avalie a Formação CSS Web Developer                                    |1	   		       |   ✅  |
+|MO-1 | Fundamentos do Java e Versionamento com Git	            |	                 |			                                                             | 			       |   ✅  |
+|	  |			 										        |CURSO			     |Introdução ao Java com a Riachuelo                                     |1        	       |   ✅  |
+|	  |			 										        |CURSO			     |Introdução ao Java e seu Ambiente de Desenvolvimento                   |2	   	           |   ✅  | 
+|	  |													        |CURSO			     |Fundamentos da Linguagem de Programação Java                           |2	    		   |   ✅  |
+|	  |			 										        |CURSO			     |Estruturas de Controle em Java                                         |2        	       |   ✅  |
+|	  |			 										        |CURSO			     |Versionamento de Código com Git e GitHub                               |2	   	           |   ✅  | 
+|	  |													        |CURSO			     |Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional   |1	    		   |   ✅  |
+|	  |													        |CURSO               |Explorando a Sintaxe e Lógica em Java                                  |1			       |   ✅  |
+|	  |												            |CURSO	             |Live de Lançamento - Riachuelo - Primeiros Passos com Java             |1		           |   ✅  |
+|MO-2 | Programação Orientada a Objetos e Estruturas de Dados com Java |	   	     |				                                                         | 			       |   ✅  |
+|	  |													        |CURSO			     |Java e a Arte da Abstração com Classes e Encapsulamento                |2	   		       |   ✅  |
+|	  |											                |CURSO	             |Herança e Polimorfismo em Java                                         |2	               |   ✅  |
+|	  |												            |CURSO               |Dominando Interfaces e Lambda em Java 	                             |2    		       |   ✅  |
+| 	  |												            |CURSO		         |Praticando com Collections e Outras Classes Úteis do Java	   	         |11			   |   ✅  |
+| 	  |											                |CURSO	             |Desafios de Projetos: Crie Um Portfólio Vencedor                       |1                |   ✅  |
+|     |												            |DESAFIO DE PROJETO  |Criando um Aplicativo de Controle de Transações Financeiras com POO    |2	   		       |   ✅  |
+|MO-3 | Trabalhando com Exceções e Dependências no Java  	    |	                 |				                                                         |			       |   ✅  |
+| 	  |											  	            |CURSO			     |Debugging e o Tratamento de Exceções em Java                           |2	               |   ✅  |
+| 	  |												            |CURSO			     |Simplificando I/O de Arquivos e Diretórios com Java	   			     |2			       |   ✅  |
+| 	  |												            |CURSO		         |Gerenciando Dependências com Maven e Gradle	   	                     |3			       |   ✅  |
+| 	  |											                |DESAFIO DE CODIGO	 |Desenvolvendo Funcionalidades em Java                                  |1                |   ✅  |
+|MO-4 | Integrando Java com Banco de Dados  			        |	   	             |				                                                         | 			       |   ✅  |
+|	  |													        |CURSO			     |Introdução Banco de Dados                                              |2	   		       |   ✅  |
+|	  |											                |CURSO	             |Introdução a Banco de Dados Relacionais (SQL)                          |3	               |   ✅  |
+|	  |												            |DESAFIO DE PROJETO  |Introdução ao MongoDB e Bancos de Dados NoSQL 	                     |3    		       |   ✅  |
+| 	  |												            |CURSO		         |JDBC: Explorando Persistência de Dados com Java	   	                 |6			       |   ✅  |
+|MO-5 | Boas Práticas de Codificação em Java  	                |	                 |				                                                         |			       |   ✅  |
+| 	  |											  	            |CURSO			     |Annotations em Java: Marcando o Seu Código de Maneira Inteligente      |2	               |   ✅  |
+| 	  |												            |CURSO			     |SOLID e Clean Code em Java: Escrevendo Código de Alta Qualidade	     |1			       |   ✅  |
+| 	  |												            |CURSO		         |Criando um Microsserviço de Controle de E-commerce	   	             |1			       |   ✅  |
 
